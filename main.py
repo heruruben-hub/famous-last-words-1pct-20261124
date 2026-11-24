@@ -9,7 +9,9 @@ is the punchline, and the "last words" are not a farewell at all —
 they are the reveal of a four-day con.
 
 That is why it is the whole entry: one line, 105 characters, written
-to /output/entry.txt.
+to /output/entry.txt. The punch lands at the very end — "every time I
+blinked" — because the blinking low-battery warning is the phone's
+own tell, the thing the owner has been watching all along.
 """
 
 from pathlib import Path
